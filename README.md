@@ -1,5 +1,8 @@
 
 # m-require
+[![npm total download](https://img.shields.io/npm/dt/m-require.svg?style=flat)](https://www.npmjs.com/package/m-require)
+[![npm version](https://badge.fury.io/js/m-require.svg?style=flat)](https://badge.fury.io/js/m-require)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://ruedap.mit-license.org/2015)
 
 gulpfileとか大量にrequireしていると重くなりますね。  
 requireにかかる時間を確認できるようになります。  
